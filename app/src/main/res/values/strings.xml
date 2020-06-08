@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="endGame">結束遊戲</string>
+    <string name="welcome">歡迎光臨賓果遊戲</string>
+    <string name="startGame">開始遊戲</string>
+    <string name="name">請輸入您的大名</string>
+</resources>
